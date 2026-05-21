@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "run-p -sr theme:dev webpack:watch",
-    "theme:dev": "shopify theme dev --store walkingco --theme-editor-sync",
+    "theme:dev": "shopify theme dev --store tg3p8j-zp --theme-editor-sync",
     "webpack:watch": "npx mix watch",
     "hot": "npx mix watch --hot",
     "prod": "npx mix --production"
